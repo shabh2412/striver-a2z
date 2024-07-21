@@ -1,6 +1,1 @@
-20
-300000
-3000000000
-text 1 : hello
-message: This is a message
-cin char: A
+You are an adult
