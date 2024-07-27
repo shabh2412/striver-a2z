@@ -1,1 +1,14 @@
-0 hey Rishabh
+5
+5
+10
+15
+20
+after doSomething 5
+5
+10
+15
+20
+after doSomething2 20
+before doSomethingArr 3
+in doSomethingArr 20
+after doSomethingArr 20
