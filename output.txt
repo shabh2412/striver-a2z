@@ -1,1 +1,9 @@
-hey_Rishabh!
+Average grade: 86
+Hightest: Alice, 92
+Lowest: Bob, 78
+Updated Grade: Diana, 87
+John 85
+Alice 92
+Bob 78
+Diana 87
+Eve 90
