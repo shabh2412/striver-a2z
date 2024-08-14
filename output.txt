@@ -1,14 +1,2 @@
-5
-5
-10
-15
-20
-after doSomething 5
-5
-10
-15
-20
-after doSomething2 20
-before doSomethingArr 3
-in doSomethingArr 20
-after doSomethingArr 20
+1 Rishabh
+Std:1 Roll: 2 Name:Rishabh
