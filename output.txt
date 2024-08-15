@@ -1,3 +1,7 @@
 priority queue stores the highest element at the top, and maintains the order. It uses a heap behid the scene.
 pq size: 6
 42 23 19 12 11 2 
+syntax to make min heap - a ds that stores minimum at top
+priority_queue<int, vector<int>, greater<int>> minHeap;
+minHeap size: 6
+2 11 12 19 23 42 

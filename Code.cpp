@@ -20,6 +20,25 @@ void explainPQ()
     pq.pop();
   }
   cout << endl;
+  // min heap
+  cout << "syntax to make min heap - a ds that stores minimum at top" << endl;
+  cout << "priority_queue<int, vector<int>, greater<int>> minHeap;" << endl;
+  priority_queue<int, vector<int>, greater<int>> minHeap;
+  minHeap.push(12);
+  minHeap.push(11);
+  minHeap.push(23);
+  minHeap.push(19);
+  minHeap.push(42);
+  minHeap.push(2);
+
+  cout << "minHeap size: " << minHeap.size() << endl;
+
+  while (!minHeap.empty())
+  {
+    cout << minHeap.top() << " ";
+    minHeap.pop();
+  }
+  cout << endl;
 }
 
 int main()
