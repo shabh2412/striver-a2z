@@ -3,7 +3,7 @@ using namespace std;
 
 void explainList()
 {
-  // List is similar to vector, except it has a push front method.
+  // List & Dequeue is similar to vector, except it has a push front method. But uses a linked list rather than an array.
   list<int> ls = {3, 9};
   ls.push_front(24);
   ls.push_back(12);
