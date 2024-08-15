@@ -1,3 +1,3 @@
-24 3 9 12 
-front elemnt in the list is 24
-back elemnt in the list is 12
+queue is FIFO
+Students size: 5
+Rishabh Sagarika Jackson Parth Satyam 
