@@ -1,2 +1,26 @@
-1 Rishabh
-Std:1 Roll: 2 Name:Rishabh
+2
+1
+0
+23
+2 1 0 23 
+auto type detection
+2 1 0 23 
+for each loop in c++ vector
+2 1 0 23 
+reverse iterator
+23 0 1 2 
+Initializing vector of size n
+0 0 0 0 0 3 12 1 
+8 8 8 8 8 20 21 17 
+3 4 20 21 17 
+21
+vector before erasing
+1 2 3 4 5 6 7 8 9 10 
+vector after erasing first element
+2 3 4 5 6 7 8 9 10 
+erasing a range of items
+2 3 4 5 6 7 
+2 3 4 5 6 7 
+4 3 33 93 101 26 24 12 9 10 
+after inserting an item
+4 3 33 93 101 69 26 24 12 9 10 
