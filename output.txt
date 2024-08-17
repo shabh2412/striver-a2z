@@ -1,9 +1,2 @@
-1 Hitesh
-1 Nitesh
-1 Jitesh
-2 Ritesh
-2 Kitesh
-printing equal range of 1
-1 - Hitesh
-1 - Nitesh
-1 - Jitesh
+5 23 5 1 56 
+1 9 12 99 20 340 11 10 933 344 10000 2 
