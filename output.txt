@@ -1,7 +1,8 @@
-1 - abc
-2 - def
-3 - cat
-4 - elephant
-5 - hii
-finding 3
-3 - cat
+size of map: 1
+26: Rishabh
+Birthday: 5 Name: Jackson
+Birthday: 24 Name: Sagarika
+Birthday: 18 Name: Arav
+Birthday: 26 Name: Rishabh
+is Empty? : 0
+after clear is Empty? : 1

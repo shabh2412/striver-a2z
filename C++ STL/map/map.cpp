@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void explainMap()
+void explainUnorderedMap()
 {
   map<int, string> mpp;
   mpp.insert({4, "elephant"});
@@ -34,6 +34,6 @@ void explainMap()
 
 int main()
 {
-  explainMap();
+  explainUnorderedMap();
   return 0;
 }
