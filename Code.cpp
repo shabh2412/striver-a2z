@@ -63,8 +63,19 @@ void explainMaxElement()
   cout << *maxElem << endl;
 }
 
+void explainReverse()
+{
+  vector<int> vec = {3, 4, 4, 11, 2};
+  reverse(vec.begin() + 2, vec.end() - 1);
+  for (auto it : vec)
+  {
+    cout << it << " ";
+  }
+  cout << endl;
+}
+
 int main()
 {
-  explainMaxElement();
+  explainReverse();
   return 0;
 }
