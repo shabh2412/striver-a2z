@@ -13,6 +13,7 @@ void explainAccumulate()
   cout << "0 = ";
   cout << sum << endl;
 }
+
 void explainCount()
 {
 
@@ -21,9 +22,24 @@ void explainCount()
   cout << "count of 2: " << countOf2;
 }
 
+void explainFind()
+{
+  int arr[5] = {10, 20, 30, 40, 12};
+  auto it = find(arr, arr + size(arr), 12);
+
+  if (it != arr + size(arr)) // Check if the element was found
+  {
+    int index = distance(arr, it); // Calculate the index
+    cout << "Element found at index: " << index << endl;
+  }
+  else
+  {
+    cout << "Element not found" << endl;
+  }
+}
 
 int main()
 {
-  explainCount();
+  explainFind();
   return 0;
 }
