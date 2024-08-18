@@ -56,8 +56,15 @@ void explainPrevPermutation()
   } while (prev_permutation(str.begin(), str.end()));
 }
 
+void explainMaxElement()
+{
+  vector<int> arr = {2, 3, 3, 1, 12999, 1, 2, 12};
+  vector<int>::iterator maxElem = max_element(arr.begin(), arr.end());
+  cout << *maxElem << endl;
+}
+
 int main()
 {
-  explainPrevPermutation();
+  explainMaxElement();
   return 0;
 }
