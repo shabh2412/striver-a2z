@@ -13,10 +13,17 @@ void explainAccumulate()
   cout << "0 = ";
   cout << sum << endl;
 }
+void explainCount()
+{
+
+  int arr[13] = {4, 5, 3, 2, 1, 2, 3, 2, 2, 2, 2, 2, 9};
+  int countOf2 = count(arr, arr + size(arr), 2);
+  cout << "count of 2: " << countOf2;
+}
+
 
 int main()
 {
-  // accumulate
-  explainAccumulate();
+  explainCount();
   return 0;
 }
