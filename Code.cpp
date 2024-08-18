@@ -38,8 +38,26 @@ void explainFind()
   }
 }
 
+void explainnNextPermutation()
+{
+  string str = "rishabh";
+  do
+  {
+    cout << str << endl;
+  } while (next_permutation(str.begin(), str.end()));
+}
+
+void explainPrevPermutation()
+{
+  string str = "Rishabh";
+  do
+  {
+    cout << str << endl;
+  } while (prev_permutation(str.begin(), str.end()));
+}
+
 int main()
 {
-  explainFind();
+  explainPrevPermutation();
   return 0;
 }
