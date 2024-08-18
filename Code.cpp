@@ -74,8 +74,16 @@ void explainReverse()
   cout << endl;
 }
 
+void explainPow()
+{
+  int a = 2;
+  int b = 29;
+  long long res = pow(a, b);
+  cout << res << endl;
+}
+
 int main()
 {
-  explainReverse();
+  explainPow();
   return 0;
 }
