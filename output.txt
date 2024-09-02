@@ -1,1 +1,5 @@
-536870912
+q = 1; hash = 2
+q = 4; hash = 0
+q = 2; hash = 2
+q = 3; hash = 1
+q = 12; hash = 0
