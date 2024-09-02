@@ -1,5 +1,4 @@
-q = 1; hash = 2
-q = 4; hash = 0
-q = 2; hash = 2
-q = 3; hash = 1
-q = 12; hash = 0
+q = a count: 3
+q = e count: 0
+q = b count: 1
+q = d count: 1
